@@ -1,0 +1,33 @@
+{
+  "name": "test-ie-pacman-simulator",
+  "version": "1.0.0",
+  "description": "Pacman simulator",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idea399/test-ie-pacman-simulator.git"
+  },
+  "keywords": [
+    "pacman",
+    "simulator"
+  ],
+  "author": "Yang Ren",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/idea399/test-ie-pacman-simulator/issues"
+  },
+  "homepage": "https://github.com/idea399/test-ie-pacman-simulator#readme",
+  "devDependencies": {
+    "@types/jest": "^29.5.1",
+    "@types/node": "^20.2.5",
+    "jest": "^29.5.0",
+    "nodemon": "^2.0.22",
+    "ts-jest": "^29.1.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.4"
+  }
+}
